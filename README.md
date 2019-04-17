@@ -9,3 +9,15 @@ Cassiopeia template for Joomla 3.x
 **Description**
 This package replacing in joomla jquery 1.x to jQuery 4.1.3 and replace Bootstrap to 4.1.3.
 And install new teplate Cassiopeia
+
+
+**Support**
+https://fb.com/messages/t/koreshs 
+https://vk.me/korenevskiys 
+
+**Demo**
+https://explorer-office.ru
+
+**Download**
+https://explorer-office.ru/files/pkg_multi.zip
+
